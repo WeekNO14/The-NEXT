@@ -4,13 +4,13 @@
 更多信息尽在
 
 微博
-https://weibo.com/84471180
+<a href="https://weibo.com/84471180" target="_blank">https://weibo.com/84471180</a>
 
 小红书
-https://www.xiaohongshu.com/user/profile/5c0e2a3af7e8b97533c493a9
+<a href="https://www.xiaohongshu.com/user/profile/5c0e2a3af7e8b97533c493a9" target="_blank">https://www.xiaohongshu.com/user/profile/5c0e2a3af7e8b97533c493a9</a>
 
 图虫
-https://84471180.tuchong.com
+<a href="https://84471180.tuchong.com" target="_blank">https://84471180.tuchong.com</a>
 
 
 
